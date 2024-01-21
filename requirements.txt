@@ -4,3 +4,4 @@ PyAudio
 PyWhatKit
 Wikipedia
 Pyjokes
+setuptools
