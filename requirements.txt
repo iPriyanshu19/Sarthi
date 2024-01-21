@@ -1,7 +1,7 @@
-SpeechRecognition
+speechrecognition
 pyttsx3
-PyAudio
-PyWhatKit
-Wikipedia
-Pyjokes
+pyaudio
+pywhatkit
+wikipedia
+pyjokes
 setuptools
