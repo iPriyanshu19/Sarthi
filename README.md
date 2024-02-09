@@ -41,5 +41,6 @@ Feel free to customize the virtual assistant to suit your needs. You can modify 
 
 ## Contributing
 Contributions are welcome! If you find bugs or want to add new features, please open an issue or submit a pull request.
+@00mukul , @aryanupadhyay29 , @sujaypandey12
 
 # Happy coding with your virtual assistant!
