@@ -1,7 +1,0 @@
-speechrecognition
-pyttsx3
-pyaudio
-pywhatkit
-wikipedia
-pyjokes
-setuptools
