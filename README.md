@@ -1,4 +1,4 @@
-# Virtual Assistant
+# Sarthi
 ## Overview
 Welcome to the Virtual Assistant project! This Python-based virtual assistant leverages various libraries, including OpenCV, PyWhatKit, PyAudio, and more, to perform face detection, object detection, automated email generation, and playing music on YouTube. This README file provides essential information to get you started and use the virtual assistant effectively.
 
