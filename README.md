@@ -1,4 +1,4 @@
-# Sarthi
+# Sarthi (A voice assistant)
 ## Overview
 Welcome to the Virtual Assistant project! This Python-based virtual assistant leverages various libraries, including OpenCV, PyWhatKit, PyAudio, and more, to perform face detection, object detection, automated email generation, and playing music on YouTube. This README file provides essential information to get you started and use the virtual assistant effectively.
 
@@ -16,9 +16,9 @@ The virtual assistant can compose and send emails automatically using the PyWhat
 With the help of PyWhatKit and other libraries, the virtual assistant can search for and play music on YouTube. Users can specify their preferences or choose from predefined playlists.
 
 ## Prerequisites
-Before using the virtual assistant, ensure you have the following prerequisites installed:<br>
+### Before using the virtual assistant, ensure you have the following prerequisites installed:<br>
 Python 3.x <br>
-Required libraries (install using pip install -r requirements.txt):<br>
+### Required libraries (install using pip install -r requirements.txt):<br>
 OpenCV <br>
 PyWhatKit <br>
 PyAudio <br>
