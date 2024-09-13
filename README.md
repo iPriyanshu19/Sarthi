@@ -17,7 +17,7 @@ With the help of PyWhatKit and other libraries, the virtual assistant can search
 
 ## Prerequisites
 Before using the virtual assistant, ensure you have the following prerequisites installed:<br>
-Python 3.x
+Python 3.x <br>
 Required libraries (install using pip install -r requirements.txt):<br>
 OpenCV <br>
 PyWhatKit <br>
