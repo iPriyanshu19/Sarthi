@@ -16,12 +16,12 @@ The virtual assistant can compose and send emails automatically using the PyWhat
 With the help of PyWhatKit and other libraries, the virtual assistant can search for and play music on YouTube. Users can specify their preferences or choose from predefined playlists.
 
 ## Prerequisites
-Before using the virtual assistant, ensure you have the following prerequisites installed:
+Before using the virtual assistant, ensure you have the following prerequisites installed:<br>
 Python 3.x
-Required libraries (install using pip install -r requirements.txt):
+Required libraries (install using pip install -r requirements.txt):<br>
 OpenCV <br>
 PyWhatKit <br>
-PyAudio, 
+PyAudio <br>
 Other necessary libraries
 
 ## Usage
@@ -43,8 +43,10 @@ The assistant will use PyWhatKit to search for the music on YouTube and play it.
 ## Customization
 Feel free to customize the virtual assistant to suit your needs. You can modify the behavior, add new features, or integrate additional libraries as required.
 
-## Contributing
+## Contributors
+[Mukul](https://github.com/00mukul) <br>
+[Aryan](https://github.com/aryanupadhyay29) <br>
+[Sujay Pandey](https://github.com/sujaypandey12) <br>
 Contributions are welcome! If you find bugs or want to add new features, please open an issue or submit a pull request.
-@00mukul , @aryanupadhyay29 , @sujaypandey12
 
 # Happy coding with your virtual assistant!
