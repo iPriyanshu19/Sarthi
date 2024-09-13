@@ -44,9 +44,7 @@ The assistant will use PyWhatKit to search for the music on YouTube and play it.
 Feel free to customize the virtual assistant to suit your needs. You can modify the behavior, add new features, or integrate additional libraries as required.
 
 ## Contributors
-[Mukul](https://github.com/00mukul) <br>
-[Aryan](https://github.com/aryanupadhyay29) <br>
-[Sujay Pandey](https://github.com/sujaypandey12) <br>
+[Mukul](https://github.com/00mukul) &nbsp; [Aryan](https://github.com/aryanupadhyay29) &nbsp; [Sujay Pandey](https://github.com/sujaypandey12) <br>
 Contributions are welcome! If you find bugs or want to add new features, please open an issue or submit a pull request.
 
 # Happy coding with your virtual assistant!
